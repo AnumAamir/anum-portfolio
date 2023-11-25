@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anum Aamir - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Anum Aamir</h1>
+        <p>Software Developer</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#certification">certification</a></li>
+            
+        </ul>
+    </nav>
+
+    <main>
+        <section id="about">
+              <h2>About Me</h2>
+            <p>I am a Computer Science Student at FAST University. I enjoy problem-solving and coding. Always strive to bring 100% to the work I do. I have worked on technologies like Python, Django, Flask, MySQL, PostgreSQL, MongoDB, HTML5, CSS, Java, C++ during my bachelor's. I have 19 months of professional work experience which helped me strengthen my experience in Python, Flask, and Django. I am passionate about developing complex applications that solve real-world problems impacting millions of users.</p>
+
+            <h3>Skills</h3>
+            <ul>
+                <li>Languages: Python, Java, JavaScript, C, C++, HTML/CSS, Bash</li>
+                <li>Databases: MySQL, PostgreSQL, MongoDB</li>
+                <li>Libraries: NumPy, Pandas, OpenCV</li>
+                <li>Frameworks: Flask, Django, Node.js, Keras, TensorFlow, PyTorch, Bootstrap, Apache Beam</li>
+                <li>Tools & Technologies: Git, Docker, AWS, GCP, Heroku, JIRA</li>
+            </ul>
+
+            <p>Looking for an opportunity to work in a challenging position combining my skills in Software Engineering, which provides professional development, interesting experiences, and personal growth.</p>
+        </section>
+
+
+        <section id="experience">
+             <h2>Experience</h2>
+            <div class="job">
+                <h3>Software Developer</h3>
+                <p>Developed and managed the backend of an e-commerce platform using Flask.</p>
+                <p>Worked on web applications targeting customers, selling vendors, and admin users.</p>
+                <p>Improved the response time by 20% by refactoring the codebase and changing database design and queries.</p>
+                <p>Tools: Python, Flask, MongoDB</p>
+                <p>July 2022 - Nov 2022 | Pakistan</p>
+            </div>
+            <!-- Add more job experiences if needed -->
+        </section>
+
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Money Tracker System</h3>
+                <p>An online money tracking system using Django, JavaScript, Python, HTML, and CSS.</p>
+                <p>April 2023 - May 2023</p>
+            </div>
+
+            <div class="project">
+                <h3>Tutor Bot</h3>
+                <p>Features include question styles selection, topic selection, question generation, answer evaluation, plagiarism checking, and topic suggestions based on user performance. Utilized HTML, CSS, and JavaScript.</p>
+                <p>April 2023 - May 2023</p>
+            </div>
+
+            <div class="project">
+                <h3>Covid-19 Genetic Sequence Finder</h3>
+                <p>Used binary tree and searching techniques to find similarities in the genetic sequence of Covid-19 with other viruses. Focused on efficient data retrieval.</p>
+                <p>December 2021 - January 2022</p>
+            </div>
+
+            <div class="project">
+                <h3>Hospital Management System</h3>
+                <p>A C++ program displaying nearby medical labs, hospitals, available doctors, and their specializations. Focused on OOP concepts like polymorphism, inheritance, and encapsulation.</p>
+                <p>April 2021 - May 2021</p>
+            </div>
+
+            <div class="project">
+                <h3>Matrix Solver</h3>
+                <p>A C program performing operations on matrices. Implemented using C basics and logic building.</p>
+                <p>November 2020 - December 2020</p>
+            </div>
+            <!-- Add more projects if needed -->
+        </section>
+<section id="certifications">
+            <h2>Certifications</h2>
+            <div class="certification">
+                <h3>Certificate in Python Programming</h3>
+                <p>Issued By: XYZ Institute</p>
+                <p>Date: July 2022</p>
+            </div>
+
+            <div class="certification">
+                <h3>Web Development Certification</h3>
+                <p>Issued By: ABC Academy</p>
+                <p>Date: March 2023</p>
+            </div>
+
+            <!-- Add more certifications as needed -->
+        </section>
+
+        <!-- Other sections -->
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Anum Aamir</p>
+    </footer>
+</body>
+</html>
